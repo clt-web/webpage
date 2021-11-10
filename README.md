@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Clube Lafaietense de Tiro
 
 You can use the [editor on GitHub](https://github.com/clt-web/webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
