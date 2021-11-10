@@ -5,38 +5,38 @@
 [O Trabuco](/publicacoes/trabuco/trabuco.md)
 
 
-You can use the [editor on GitHub](https://github.com/clt-web/webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### História
+O Clube Lafaietense de Tiro (CLT) é uma tradicional institucição fundado em 1º de Junho de 2001 na cidade de Conselheiro Lafaiete em Minas Gerais. Foi reconhecido como Utilidade Pública pelo mesmo município em Lei nº 4.483, de 10 de Setembro de 2002.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Infraestrutura
+O clube conta com espaços adequados para a prática, treinamento e instrução do tiro esportivo e defesa pessoal. Os principais equipamentos e áreas do clube são as salas de instrução/capacitação, espaços de convivência, oficina de armas e 10 estandes de tiro:
 
-### Markdown
+- Três salas de aulas, dojô para treinamento de defesa pessoal, área de convivência com conzinha, sanitário adaptados para PCD e estacionamento com trinta vagas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Oficina de armas de fogo com armeiro certificado pelo Exército e credenciado pela Polícia Federal.
 
-```markdown
-Syntax highlighted code block
+- Dez estandes de tiro:
+    
+    - Estande de tiro de 10 metros para armas curtas em ambiente fechado (indoor).
+    - Estande de tiro de 25 metros para carabinas e chumbinho em ambiente fechado.
+    - Estande de tiro de 25 metros para armas curtas em ambiente aberto (outdoor).
+    - Estande de tiro de 25 metros para carabinas de chumbinho em ambiente aberto.
+    - Estande de tiro de 75 metros para armas longas em ambiente aberto.
+    - Estande de tiro de 300 metros para fuzis em ambiente aberto.
+    - Três estandes de tiro de 15 metros para Tiro Defensivo e IPSC (em breve).
+    - Estande de tiro ao prato (trap) para espingardas (em breve).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Prestação de Serviços e Desembaraços Burrocráticos (Despachante)
+O CLT possui pessoal qualificado e com vasta experiência na prestação de serviços àqueles que possuem interesse na prática do tiro esprtivo, defesa pessoal, sergurança privada e/ou aquisição de armas de fogo. 
 
-1. Numbered
-2. List
+- Serviço de despachante para aquisição de armas de fogo, atendendo ao público da 4ª Região Militar (4ªRM), que compreende todo o estado de MG exceto Triângulo Mineiro, com expertise na tramitação de processos e redução de custos aos clientes e associados.
+- Serviço de despachante na concessão de CR (Certificado de Registro), apostilamento de armas e aquisição de armas e munições.
+- Serviço de despachante para aquisição e/ou renovação de documentos junto ao Exército e Polícia Federal.
+- Curso de manejo e manutenção de armas de fogo.
+- Cursos de tiro, seja para prática do tiro esportivo e/ou defesa pessoal.
+- Consultoria nas áreas de segurança privada e armamento
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### Venha para o CLT, aqui você tem atendimento personalizado e é valorizado.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clt-web/webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
