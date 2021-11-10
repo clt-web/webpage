@@ -28,7 +28,7 @@ O clube conta com espaços adequados para a prática, treinamento e instrução 
 
 
 ### Prestação de Serviços e Desembaraços Burrocráticos (Despachante)
-O CLT possui pessoal qualificado e com vasta experiência na prestação de serviços àqueles que possuem interesse na prática do tiro esprtivo, defesa pessoal, sergurança privada e/ou aquisição de armas de fogo. 
+O CLT possui pessoal qualificado e com vasta experiência na prestação de serviços a quem possui interesse na prática do tiro esprtivo, defesa pessoal, sergurança privada e/ou aquisição de armas de fogo. 
 
 - Serviço de despachante para aquisição de armas de fogo, atendendo ao público da 4ª Região Militar (4ªRM), que compreende todo o estado de MG exceto Triângulo Mineiro, com expertise na tramitação de processos e redução de custos aos clientes e associados.
 - Serviço de despachante na concessão de CR (Certificado de Registro), apostilamento de armas e aquisição de armas e munições.
@@ -38,5 +38,5 @@ O CLT possui pessoal qualificado e com vasta experiência na prestação de serv
 - Consultoria nas áreas de segurança privada e armamento
 
 
-#### Venha para o CLT, aqui você tem atendimento personalizado e é valorizado.
+#### Venha para o CLT, aqui você tem atendimento personalizado e é sempre valorizado.
 
