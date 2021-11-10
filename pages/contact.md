@@ -1,8 +1,12 @@
 ## Contato
 
-E-mail: [email@email.com](email@email.com)
-Telefone: 9-9999-8888
+Horário de Atendimento:
+Quinta-feira à Domingo de 9h às 11h50 e de 13h30 às 17h.
 
-Endereço e horário de atendimento:
-Rua: 123, bairro: 123, cidade/mg. CEP: 123123-123.
-Quinta à Domingo de 10h às 18h.
+Endereço: Rua Ouro Branco, sem nº,  Distrito Industrial, Conselheiro Lafaiete/MG. CEP: 36406-333
+
+E-mail: [clt.clubedetiro@gmail.com](mailto:clt.clubedetiro@gmail.com)
+
+Telefone: (31) 9-9127-5139
+
+
