@@ -2,6 +2,8 @@
 
 [Contato](/about/contact.md)
 
+[O Trabuco](/publicacoes/trabuco/trabuco.md)
+
 
 You can use the [editor on GitHub](https://github.com/clt-web/webpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
