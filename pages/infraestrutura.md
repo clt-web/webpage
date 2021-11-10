@@ -4,7 +4,7 @@ O clube conta com espaços adequados para a prática, treinamento e instrução 
 
 - Três salas de aulas, dojô para treinamento de defesa pessoal, área de convivência com conzinha, sanitário adaptados para PCD e estacionamento com trinta vagas.
 
-![Sala] (../images/01-sala.jpg "Sala de aula")
+![Sala](../images/01-sala.jpg)
 
 
 
