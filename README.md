@@ -10,7 +10,7 @@
 ### História
 O Clube Lafaietense de Tiro (CLT) é uma tradicional institucição fundado em 1º de Junho de 2001 na cidade de Conselheiro Lafaiete em Minas Gerais. Foi reconhecido como Utilidade Pública pelo mesmo município em Lei nº 4.483, de 10 de Setembro de 2002.
 
-### Infraestrutura
+### [Infraestrutura](/pages/infraestrutura.md)
 O clube conta com espaços adequados para a prática, treinamento e instrução do tiro esportivo e defesa pessoal. Os principais equipamentos e áreas do clube são as salas de instrução/capacitação, espaços de convivência, oficina de armas e 10 estandes de tiro:
 
 - Três salas de aulas, dojô para treinamento de defesa pessoal, área de convivência com conzinha, sanitário adaptados para PCD e estacionamento com trinta vagas.
