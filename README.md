@@ -1,8 +1,8 @@
 ## Clube Lafaietense de Tiro
 
-[Contato](/about/contact.md)
+[Contato](/pages/contact.md)
 
-[O Trabuco](/publicacoes/trabuco/trabuco.md)
+[O Trabuco](/pages/trabuco/trabuco.md)
 
 [Infraestrutura](/pages/infraestrutura.md)
 
