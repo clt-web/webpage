@@ -11,15 +11,21 @@ O clube conta com espaços adequados para a prática, treinamento e instrução 
 
 ![Indoor](../images/02-indoor.jpg "Estande fechado (indoor)")
 
-- Estandes abertos (outdoor) 25, 50, 75 e 300 metros:
+- Estande aberto (outdoor) 25 metros:
 
 ![Outdoor](../images/03-outdoor.jpg "Estande aberto (outdoor)")
 
+- Estande aberto (outdoor) 50 metros:
 
 ![Outdoor](../images/04-outdoor.jpg "Estande aberto (outdoor)")
 
+- Estande aberto (outdoor) 75 e 300 metros:
 
 ![Outdoor](../images/05-outdoor.jpg "Estande aberto (outdoor)")
+
+- Vista panorâmica do CLT:
+
+![Vista-Panoramica](../images/06-outdoor.jpg "Vista panorâmica do CLT")
 
 
 
