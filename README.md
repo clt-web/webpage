@@ -3,7 +3,7 @@
 > AVISO: O CLT está funcionando nos seguintes dias e horários: Quinta-feira à Domingo de 9h às 11h50 e de 13h30 às 17h. Mais informações em: [Contato](/pages/contact) e [nas últimas edições de "O Trabuco."](/publicacoes/trabuco/trabuco.md)
 
 ### História
-O Clube Lafaietense de Tiro (CLT) é uma tradicional institucição fundado em 1º de Junho de 2001 na cidade de Conselheiro Lafaiete em Minas Gerais. Foi reconhecido como Utilidade Pública pelo mesmo município em Lei nº 4.483, de 10 de Setembro de 2002.
+O Clube Lafaietense de Tiro (CLT) é uma tradicional institucição que foi fundado em 1º de Junho de 2001, na cidade de Conselheiro Lafaiete, em Minas Gerais. Foi reconhecido como Utilidade Pública Municipal pela Lei nº 4.483, de 10 de Setembro de 2002.
 
 ### [Infraestrutura](/pages/infraestrutura.md)
 O clube conta com espaços adequados para a prática, treinamento e instrução do tiro esportivo e defesa pessoal. Os principais equipamentos e áreas do clube são as salas de instrução/capacitação, espaços de convivência, oficina de armas e 10 estandes de tiro:
@@ -25,13 +25,13 @@ O clube conta com espaços adequados para a prática, treinamento e instrução 
 
 
 ### Prestação de Serviços e Desembaraços Burrocráticos (Despachante)
-O CLT possui pessoal qualificado e com vasta experiência na prestação de serviços a quem possui interesse na prática do tiro esprtivo, defesa pessoal, sergurança privada e/ou aquisição de armas de fogo. 
+O CLT possui profissionais qualificados e com vasta experiência na prestação de serviços a quem possui interesse na prática do tiro esprtivo, defesa pessoal, sergurança privada e/ou aquisição de armas de fogo. Serviços e cursos oferecidos pelo CLT:
 
-- Serviço de despachante para aquisição de armas de fogo, atendendo ao público da 4ª Região Militar (4ªRM), que compreende todo o estado de MG exceto Triângulo Mineiro, com expertise na tramitação de processos e redução de custos aos clientes e associados.
+- Serviço de despachante para aquisição de armas de fogo, atendendimento ao público da 4ª Região Militar (4ªRM), que compreende todo o estado de MG exceto Triângulo Mineiro. Expertise na confecção e tramitação de processos com os órgãos estatais, o que minimiza custos aos clientes e associados.
 - Serviço de despachante na concessão de CR (Certificado de Registro), apostilamento de armas e aquisição de armas e munições.
-- Serviço de despachante para aquisição e/ou renovação de documentos junto ao Exército e Polícia Federal.
+- Serviço de despachante para aquisição e/ou renovação de documentos junto ao Exército e/ou Polícia Federal.
 - Curso de manejo e manutenção de armas de fogo.
-- Cursos de tiro, seja para prática do tiro esportivo e/ou defesa pessoal.
+- Cursos de tiro para prática do tiro esportivo e/ou defesa pessoal.
 - Consultoria nas áreas de segurança privada e armamento.
 
 
