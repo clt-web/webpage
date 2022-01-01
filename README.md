@@ -3,7 +3,7 @@
 > AVISO: O CLT está funcionando nos seguintes dias e horários: Quinta-feira à Domingo de 9h às 11h50 e de 13h30 às 17h. Mais informações em: [Contato](/pages/contact) e [nas últimas edições de "O Trabuco."](/publicacoes/trabuco/trabuco.md)
 
 ### História
-O Clube Lafaietense de Tiro (CLT) é uma tradicional institucição que foi fundado em 1º de Junho de 2001, na cidade de Conselheiro Lafaiete, em Minas Gerais. Foi reconhecido como Utilidade Pública Municipal pela Lei nº 4.483, de 10 de Setembro de 2002.
+O Clube Lafaietense de Tiro (CLT) é uma tradicional instituição que foi fundado em 1º de Junho de 2001, na cidade de Conselheiro Lafaiete, em Minas Gerais. Foi reconhecido como Utilidade Pública Municipal pela Lei nº 4.483, de 10 de Setembro de 2002.
 
 ### [Infraestrutura](/pages/infraestrutura.md)
 O clube conta com espaços adequados para a prática, treinamento e instrução do tiro esportivo e defesa pessoal. Os principais equipamentos e áreas do clube são as salas de instrução/capacitação, espaços de convivência, oficina de armas e 10 estandes de tiro:
